@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: mongo, db, mongodb, collection, manager, crud
 Requires at least: 3.2.1
 Tested up to: 3.2.1
-Stable tag: 0.4
+Stable tag: 0.5
 
 A plugin to provide crud management to a specified group of collections
 
@@ -18,7 +18,7 @@ provides an ajax based crud administration for the documents of each configured 
 
 * Make sure you begin the mongod process
 
-* read the mongo docs: http://www.mongodb.org/
+* rtfm: http://www.mongodb.org/
 
 == Frequently Asked Questions ==
 
@@ -30,9 +30,9 @@ Set the connection you want the pluign to use to active, you can only have conne
 
 == Screenshots ==
 
-1. Document CRUD Example:
+1. Document CRUD Example
 
 == Changelog ==
 
-= 0.4 =
+= 0.5 =
 Initial Revision

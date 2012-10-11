@@ -3,7 +3,7 @@
 Plugin Name: Supra MongoDB Manager
 Description: A plugin to provide a crud interface for the specified mongodb collection
 Author: zmijevik
-Version: 0.4
+Version: 0.5
 */
 
 //load the framework
