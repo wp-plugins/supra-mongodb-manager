@@ -2,17 +2,16 @@
 Contributors: zmijevik
 Author URI: http://profiles.wordpress.org/zmijevik
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLC8GNV7TRGDU
-Tags: mongo, db, mongodb, collection, manager, crud
+Tags: mongo, db, mongodb, collection, manager, crud, supra
 Requires at least: 3.2.1
 Tested up to: 3.2.1
-Stable tag: 0.5
+Stable tag: 0.6
 
 A plugin to provide crud management to a specified group of collections
 
 == Description ==
 
-Do you have a mongodb collection you want to administer in the backend? Perhaps you a a developer and interfaced mongo somehwere else in the site. This plugin
-provides an ajax based crud administration for the documents of each configured collection. 
+Do you have a mongodb collection you want to administer in the backend? Perhaps you are a developer and interfaced mongo somehwere else in the site. This plugin provides an ajax based crud administration for the documents of each configured collection. 
 
 == Installation ==
 
@@ -34,5 +33,5 @@ Set the connection you want the pluign to use to active, you can only have conne
 
 == Changelog ==
 
-= 0.5 =
+= 0.6 =
 Initial Revision
